@@ -1,2 +1,2 @@
-#   mi-repo es ek titulo.
+#   mi-repo es el titulo.
 
